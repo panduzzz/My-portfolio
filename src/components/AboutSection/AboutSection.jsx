@@ -9,7 +9,7 @@ function AboutSection() {
         </div>
         <div className='about-copy'>
           <h1>About Me</h1>
-          <p>Hi! I'm Pavithra, a developer based in India building fast, accessible web experiences.</p>
+          <p>Hi! I'm Pavithra, Computer science engineering student, currently studying 2nd year in Ramaiah university of applied sciences,peenya,bengaluru,karnataka..</p>
         </div>
       </div>
     </section>
